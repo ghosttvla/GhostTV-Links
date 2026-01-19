@@ -1,0 +1,210 @@
+24 TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/24tv.m3u8
+A Haber
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/ahaber.m3u8
+A Para
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/apara.m3u8
+A Spor
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/spor/aspor.m3u8
+ABB TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/yerel/abb-tv.m3u8
+Akıllı Arabalar
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/cocuk/akilli-arabalar.m3u8
+Akit TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/akit-tv.m3u8
+Arıza
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/ariza.m3u8
+Arkadaşım Hoşgeldin
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/arkadasim-hosgeldin.m3u8
+Arzu Film
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/arzu-film.m3u8
+Aşk-ı Memnu
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/aski-memnu.m3u8
+Aşk-ı Neva
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dini/aski-neva.m3u8
+Aziz
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/aziz.m3u8
+Bebek Şarkıları
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/cocuk/bebek-sarkilari.m3u8
+Behzat Ç.
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/behzatc.m3u8
+beIN Sports Haber
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/spor/bein-sports-haber.m3u8
+Bengütürk
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/benguturk.m3u8
+Bizim Ev TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/diger/bizimevtv.m3u8
+Bloomberg HT
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/bloomberght.m3u8
+Cennet Mahallesi
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/cennet-mahallesi.m3u8
+CNBC-e
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/cnbc-e.m3u8
+CNN Türk
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/cnnturk.m3u8
+Cübbeli Ahmet Hoca
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dini/cubbeli-ahmet.m3u8
+ÇGHB
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/cghb.m3u8
+Diyanet Çocuk
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/cocuk/diyanet-cocuk.m3u8
+Diyanet TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dini/diyanet-tv.m3u8
+Dudaktan Kalbe
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/dudaktan-kalbe.m3u8
+Ekotürk
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/ekoturk.m3u8
+Emret Komutanım
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/emret-komutanim.m3u8
+Fatmagül'ün Suçu Ne
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/fatmagul.m3u8
+Film Atölyesi
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/film-atolyesi.m3u8
+Flash Haber
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/flash-haber.m3u8
+FM TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dini/fmtv.m3u8
+Gönül Dağı
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/gonul-dagi.m3u8
+Gumball
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/cocuk/gumball.m3u8
+Güldür Güldür
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/guldur-guldur.m3u8
+Gülşah Film
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/gulsah-film.m3u8
+Haber Global
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/haberglobal.m3u8
+Habertürk
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/haberturk.m3u8
+Halk TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/halktv.m3u8
+HT Spor
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/spor/htspor.m3u8
+Hz. Yusuf
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/hzyusuf.m3u8
+İnci Taneleri
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/inci-taneleri.m3u8
+İstanbul Muhafızları
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/cocuk/istanbul-muhafizlari.m3u8
+Kanal 47
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/yerel/kanal47.m3u8
+Kanal 5
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/yerel/kanal5.m3u8
+Kemal Sunal Filmleri
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/kemal-sunal-filmleri.m3u8
+Kısmetse Olur
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/kismetse-olur.m3u8
+Kısmetse Olur: Aşkın Gücü
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/koag.m3u8
+Kızılcık Şerbeti
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/kizilcik-serbeti.m3u8
+Korku Filmleri
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/korku-filmleri.m3u8
+Kral Şakir
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/cocuk/kral-sakir.m3u8
+Kral Şakir (CN)
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/cocuk/kral-sakir-cn.m3u8
+KRT TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/krttv.m3u8
+Kudüs Fatihi
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/kudus-fatihi.m3u8
+Kurtlar Vadisi
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/kurtlar-vadisi.m3u8
+Kurtlar Vadisi Pusu
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/kvpusu.m3u8
+Kuzey Güney
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/kuzey-guney.m3u8
+Küçük Kamyon Leo
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/cocuk/kucuk-kamyon-leo.m3u8
+Leyla ile Mecnun
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/leyla-ile-mecnun.m3u8
+Lider Haber
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/lider-haber.m3u8
+Mehmed: Fetihler Sultanı
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/mehmed.m3u8
+Milli Piyango TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/diger/milli-piyango-tv.m3u8
+MPL TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dini/mpl-tv.m3u8
+Muhteşem Yüzyıl
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/muhtesem-yuzyil.m3u8
+Muhteşem Yüzyıl: Kosem
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/my-kosem.m3u8
+Mutlu Çocuk
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/cocuk/mutlu-cocuk.m3u8
+Nil RTV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/yerel/nil-rtv.m3u8
+Niloya
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/cocuk/niloya.m3u8
+NTV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/ntv.m3u8
+Nur TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dini/nur-tv.m3u8
+Peppa Pig
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/cocuk/peppa-pig.m3u8
+Pijamaskeliler
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/cocuk/pijamaskeliler.m3u8
+Rafadan Tayfa
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/cocuk/rafadan-tayfa.m3u8
+Sakarya Fırat
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/sakarya-firat.m3u8
+Seksenler
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/seksenler.m3u8
+Sihirli Annem
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/sihirli-annem.m3u8
+Sözcü TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/sozcu-tv.m3u8
+Tay TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/spor/tay-tv.m3u8
+Telenews TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/yerel/telenews-tv.m3u8
+TGRT Belgesel
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/diger/tgrt-belgesel.m3u8
+TGRT Haber
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/tgrt-haber.m3u8
+TolgShow Filtresiz
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/tolgshow-filtresiz.m3u8
+Toprak TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/diger/toprak-tv.m3u8
+Transformers
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/cocuk/transformers.m3u8
+TRT Haber
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/trthaber.m3u8
+Türk Filmleri
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/turk-filmleri.m3u8
+TV 100
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/tv100.m3u8
+TVNET
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/tvnet.m3u8
+Ulusal Kanal
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/ulusal-kanal.m3u8
+Ülke TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/haber/ulke-tv.m3u8
+Yalan Dünya
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/yalan-dunya.m3u8
+Yaprak Dökümü
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/yaprak-dokumu.m3u8
+Yedi Numara
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/yedi-numara.m3u8
+Yeşil Deniz
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/yesil-deniz.m3u8
+Zengin Kız Fakir Oğlan
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/zkfo.m3u8
+Çiçek Taksi
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/cicek-taksi.m3u8
+Kral Pop
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/diger/kral-pop.m3u8
+TJK TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/spor/tjk-tv.m3u8
+Semerkand TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dini/semerkand-tv.m3u8
+Vav TV
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dini/vav-tv.m3u8
+Sihirli Annem
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/dizi/sihirli-annem-puhu.m3u8
+Baykuş HopHop
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/cocuk/baykus-hophop.m3u8
+TAFF Pictures
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/taff-pictures.m3u8
+Aksiyon Filmleri
+https://raw.githubusercontent.com/UzunMuhalefet/yt-streams/refs/heads/main/TR/film/aksiyon-filmleri.m3u8
