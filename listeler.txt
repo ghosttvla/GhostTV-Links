@@ -1,1 +1,5 @@
-Uzun Muhalefet|https://streams.uzunmuhalefet.com/lists/tr.m3u Boncuk IPTV|https://raw.githubusercontent.com/ghosttvla/GhostTV-Links/refs/heads/main/boncuktv1.m3u Patron IPTV|https://raw.githubusercontent.com/ghosttvla/GhostTV-Links/refs/heads/main/patronyt1.m3u Youtube IPTV|https://raw.githubusercontent.com/ghosttvla/GhostTV-Links/refs/heads/main/youtubestreams.m3u Hayat IPTV|https://raw.githubusercontent.com/hayatiptv/iptv/master/index.m3u
+Uzun Muhalefet|https://streams.uzunmuhalefet.com/lists/tr.m3u
+Boncuk IPTV|https://raw.githubusercontent.com/ghosttvla/GhostTV-Links/refs/heads/main/boncuktv1.m3u
+Patron IPTV|https://raw.githubusercontent.com/ghosttvla/GhostTV-Links/refs/heads/main/patronyt1.m3u
+Youtube IPTV|https://raw.githubusercontent.com/ghosttvla/GhostTV-Links/refs/heads/main/youtubestreams.m3u
+Hayat IPTV|https://raw.githubusercontent.com/hayatiptv/iptv/master/index.m3u
