@@ -1,18 +1,4 @@
 #EXTM3U
-#EXTINF:-1 group-title="ULUSAL" tvg-id="TRT1.tr" tvg-logo="https://cdn.technettv.com/channel/19958/logo_256_1699961525.png" ,TRT 1 (Alternatif)
-https://trt.daioncdn.net/trt-1/master.m3u8?app=clean
-#EXTINF:-1 group-title="ULUSAL" tvg-id="TRT1.tr" tvg-logo="https://cdn.technettv.com/channel/19958/logo_256_1699961525.png" ,TRT 1 (Alternatif 2)
-https://trt.daioncdn.net/trt-1/master_1080p.m3u8?&sid=7lt9umlk1uqx&app=ed3904e8-737b-4a5e-856a-1b0d7a0a94e2&ce=2
-#EXTINF:-1 group-title="ULUSAL" tvg-id="TRT2.tr" tvg-logo="https://cdn.technettv.com/channel/20315/logo_256_1699961575.png" ,TRT 2
-https://tv-trt2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 group-title="ULUSAL" tvg-id="ShowTV.tr" tvg-logo="https://cdn.technettv.com/channel/29716/logo_256_1734935547.jpg" ,Show TV
-https://rmtftbjlne.turknet.ercdn.net/bpeytmnqyp/showtv/showtv.m3u8
-#EXTINF:-1 group-title="ULUSAL" tvg-id="StarTV.tr" tvg-logo="https://cdn.technettv.com/channel/20567/logo_256_1699960596.png" ,Star TV
-https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
-#EXTINF:-1 group-title="ULUSAL" tvg-id="StarTV.tr" tvg-logo="https://cdn.technettv.com/channel/20567/logo_256_1699960596.png" ,Star TV (alternatif 2
-http://plusjustone.xyz:8080/play/live.php?mac=00:2A:01:90:E8:E5&stream=1854&extension=ts
-#EXTINF:-1 group-title="ULUSAL" tvg-id="EuroStarTV.tr" tvg-logo="https://www.eurostartv.com.tr/img/eurostar-logo.png" ,Euro Star TV
-https://stream-extractor.koprulu2.workers.dev/?url=https://www.parsatv.com/m/name=Euro-Star&ext=m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="KanalD.tr" tvg-logo="https://cdn.technettv.com/channel/20483/logo_256_1707397616.png" ,Kanal D
 https://ackaxsqacw.turknet.ercdn.net/ozfkfbbjba/kanald/kanald_1080p.m3u8
 #EXTINF:-1 group-title="ULUSAL" tvg-id="KanalD.tr" tvg-logo="https://www.digiturkburada.com.tr/kanal3/kanal-buyuk/euro-d-buyuk.png" ,Euro D
