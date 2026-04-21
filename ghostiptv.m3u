@@ -1,0 +1,300 @@
+#EXTM3U
+# --- ULUSAL ---
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/trt1.png" group-title="Ulusal",TRT 4K
+https://cors-anywhere.yidianzhishi.cn/http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49172
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/trt2.png" group-title="Ulusal",TRT 1 
+https://tv-trt1.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/trt2.png" group-title="Ulusal",TRT 2 
+https://tv-trt2.medya.trt.com.tr/master.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/kanald.png" group-title="Ulusal",Kanal D 
+https://demiroren-live.daioncdn.net/kanald/kanald.m3u8?app=kanald_web&ce=3
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/showtv.png" group-title="Ulusal",Show 
+https://bloomberght-live.daioncdn.net/showtv/showtv.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/startv.png" group-title="Ulusal",Star 
+https://raw.githubusercontent.com/ipstreet312/freeiptv/refs/heads/master/ressources/tur/star.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/atv.png" group-title="Ulusal",ATV 
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/atv/atv.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/a2.png" group-title="Ulusal",A2 
+https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/a2tv/a2tv.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/kanal7.png" group-title="Ulusal",Kanal 7 
+https://kanal7-live.daioncdn.net/kanal7/kanal7.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/tv8.png" group-title="Ulusal",Tv8 
+https://tv8-live.daioncdn.net/tv8/tv8.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/tv85.png" group-title="Ulusal",Tv8,5 
+https://tv8.daioncdn.net/tv8bucuk/tv8bucuk.m3u8?app=tv8bucuk_web&ce=3
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/fox.png" group-title="Ulusal",Now 
+https://siraucbeyaz.denek1544.workers.dev/izle/foxtv.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/360tv.png" group-title="Ulusal",360 
+https://turkmedya-live.ercdn.net/tv360/tv360.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/teve2.png" group-title="Ulusal",Teve2 
+https://demiroren-live.daioncdn.net/teve2/teve2_1080p.m3u8
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/showmax.png" group-title="Ulusal",Show Max 
+https://raw.githubusercontent.com/rideordie16/YouTube/main/ch/showmax.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/kanal4.png" group-title="Ulusal",Tv 4 
+https://turkmedya-live.ercdn.net/tv4/tv4.m3u8
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/tivi6.png" group-title="Ulusal",tivi6 
+https://live.artidijitalmedya.com/artidijital_tivi6/tivi6/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/grt.png" group-title="Ulusal",GRT 
+https://live.artidijitalmedya.com/artidijital_grt/grt1/chunks.m3u8
+
+# --- HABER ---
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/haber/trthaber.png" group-title="Haber",TRT Haber 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/haber/ahaber.png" group-title="Haber",A Haber 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/haber/ntv.png" group-title="Haber",NTV 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/haber/haberturk.png" group-title="Haber",Habertürk 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/kanal24.png" group-title="Haber",24 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/beyaz.png" group-title="Haber",Beyaz 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/haber/akitv.png" group-title="Haber",Akit 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/haber/cnnturk.png" group-title="Haber",CNN Türk 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ulusal/ulketv.png" group-title="Haber",Ülke 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/haber/haberglobal.png" group-title="Haber",Haber Global 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/haber/tvnet.png" group-title="Haber",TVNet 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/haber/tgrthaber.png" group-title="Haber",TGRT Haber 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/haber/tv100.png" group-title="Haber",Tv 100 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/haber/ekoltv.png" group-title="Haber",Ekol TV 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/haber/turkhaber.png" group-title="Haber",Türk Haber 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/tv264.png" group-title="Haber",TV 264 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/haber/halktv.png" group-title="Haber",Halk Tv 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/haber/tele1.png" group-title="Haber",Tele1 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/haber/flashaber.png" group-title="Haber",Flash Tv 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/haber/sozcu.png" group-title="Haber",Sözcü Tv 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/ibbtv.png" group-title="Haber",İBB TV 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/tbmm.png" group-title="Haber",TBMM 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/anadoluajansi.png" group-title="Haber",Anadolu Ajansı 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/dhacanli1.png" group-title="Haber",DHA Canlı 1 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/dhacanli2.png" group-title="Haber",DHA Canlı 2 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/haber/ekoturk.png" group-title="Haber",Eko Türk 
+YAYIN_LINKI_BURAYA
+
+# --- SPOR ---
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/macsaati.png" group-title="Spor",Maç Saati Canlı
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/beinmacsaati4k.png" group-title="Spor",beIN Maç Saati 4K
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/beinrawmacsaati.png" group-title="Spor",beIN Raw Maç Saati 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/bein8k.png" group-title="Spor",beIN 8K
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="Spor",beIN 4K
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="Spor",beIN 1 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein2.png" group-title="Spor",beIN 2 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein3.png" group-title="Spor",beIN 3 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein4.png" group-title="Spor",beIN 4 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein5.png" group-title="Spor",beIN 5 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinmax1.png" group-title="Spor",beIN Max 1 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinmax2.png" group-title="Spor",beIN Max 2 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinhaber.png" group-title="Spor",beIN Haber 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/tivibuspor.png" group-title="Spor",Tivibu Spor 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu1.png" group-title="Spor",Tivibu Spor 1 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu2.png" group-title="Spor",Tivibu Spor 2 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu3.png" group-title="Spor",Tivibu Spor 3 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/tivibu4.png" group-title="Spor",Tivibu Spor 4 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-1.png" group-title="Spor",S Sport 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport-2.png" group-title="Spor",S Sport 2 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor.png" group-title="Spor",Spor Smart 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor2.png" group-title="Spor",Spor Smart 2 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/eurosport1.png" group-title="Spor",Eurosport 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/eurosport2.png" group-title="Spor",Eurosport 2 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/fightbox.png" group-title="Spor",Fight Box 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/edgesport.png" group-title="Spor",Edge Sport 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/aspor.png" group-title="Spor",A Spor 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/trtspor.png" group-title="Spor",TRT Spor 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/trtsporyildiz.png" group-title="Spor",TRT Yıldız 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/idman.png" group-title="Spor",İdman 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/ictimaitv.png" group-title="Spor",İctimai TV 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/cbc.png" group-title="Spor",CBC Sport 
+YAYIN_LINKI_BURAYA
+
+# --- SİNEMA ---
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/beinmoviepremeire.png" group-title="Sinema",beIN Movies Premier 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/beinmoviepremier2.png" group-title="Sinema",beIN Movies Premier 2 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/beinmoviesstas.png" group-title="Sinema",beIN Movies Stars 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/beinmoviesfamily.png" group-title="Sinema",beIN Movies Family 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/beinmoviesturk.png" group-title="Sinema",beIN Movies Türk 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/beinmoviesaction.png" group-title="Sinema",beIN Movies Action 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/beinmoviesaction2.png" group-title="Sinema",beIN Movies Action 2 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/beindrama.png" group-title="Sinema",beIN Series 1 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/beincomedy.png" group-title="Sinema",beIN Series 2 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/beinseriesvice.png" group-title="Sinema",beIN Series 3 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/beinseriesscfi.png" group-title="Sinema",beIN Series 4 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/moviesmartpremium.png" group-title="Sinema",Movie Smart Premium 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/moviesmartpremium2.png" group-title="Sinema",Movie Smart Premium 2 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/moviesmartplatin.png" group-title="Sinema",Movie Smart Platin 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/moviesmartplatin2.png" group-title="Sinema",Movie Smart Platin 2 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/smartmovie.png" group-title="Sinema",Movie Smart Türk 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/moviesmartaction.png" group-title="Sinema",Movie Smart Action 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/moviesmartfamily.png" group-title="Sinema",Movie Smart Family 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/moviesmartclasic.png" group-title="Sinema",Movie Smart Classic 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/moviesmartfest.png" group-title="Sinema",Movie Smart Fest 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/dizismartpremium.png" group-title="Sinema",Dizi Smart Premium 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/dizismartmax.png" group-title="Sinema",Dizi Smart Max 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/sinamatv.png" group-title="Sinema",Sinema Tv 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/sinemaaksiyon.png" group-title="Sinema",Sinema Aksiyon 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/sinemakomedi.png" group-title="Sinema",Sinema Komedi 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/sinemayerli.png" group-title="Sinema",Sinema Yerli 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/sinemaaile.png" group-title="Sinema",Sinema Aile 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/sinemaaile2.png" group-title="Sinema",Sinema Aile 2 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/sinema1001.png" group-title="Sinema",Sinema 1001 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/filmbox.png" group-title="Sinema",Filmbox 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/sinema/fx.png" group-title="Sinema",FX 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/bbcfirst.png" group-title="Sinema",BBC First 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/epicdrama.png" group-title="Sinema",Epic Drama 
+YAYIN_LINKI_BURAYA
+
+# --- BELGESEL ---
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/trtbelgesel.png" group-title="Belgesel",TRT Belgesel 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/dmax.png" group-title="Belgesel",Dmax 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/habitat.png" group-title="Belgesel",Habitat 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/beiniz.png" group-title="Belgesel",beIN İz 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/nationalgeo.png" group-title="Belgesel",Nat Geo 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/nationalgeowil.png" group-title="Belgesel",Nat Geo Wild 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/natgeopeople.png" group-title="Belgesel",Nat Geo People 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/animalplanet.png" group-title="Belgesel",Animal Planet 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/histortychannel.png" group-title="Belgesel",History 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/bbcearth.png" group-title="Belgesel",BBC Earth 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/discovery.png" group-title="Belgesel",Discovery Channel 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/discoveryscience.png" group-title="Belgesel",Discovery Science 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/idx.png" group-title="Belgesel",Discovery IDX 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/beingurma.png" group-title="Belgesel",beIN Gurme 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/hvasiat.png" group-title="Belgesel",Viasat History 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/viasatnature.png" group-title="Belgesel",Viasat Nature 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/viasat.png" group-title="Belgesel",Viasat Explore 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/dtxturbo.png" group-title="Belgesel",DTX Turbo 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/lovenature.png" group-title="Belgesel",Love Nature 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/trek.png" group-title="Belgesel",Trek 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/insighttv.png" group-title="Belgesel",İnsight TV 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/chasse.png" group-title="Belgesel",Chasse & Peche 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/sciencevie.png" group-title="Belgesel",Science & Vie TV 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/tarihtv.png" group-title="Belgesel",Tarih Tv 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/tlc.png" group-title="Belgesel",TLC 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/docubox.png" group-title="Belgesel",Docu Screen 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/fastfunbox.png" group-title="Belgesel",Fast & Fun Box 
+YAYIN_LINKI_BURAYA
+
+# --- MÜZİK ---
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/trtmuzik.png" group-title="Müzik",TRT Müzik 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/kral.png" group-title="Müzik",Kral 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/kralpop.png" group-title="Müzik",Kral Pop 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/numberone.png" group-title="Müzik",Number One 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/numberoneturk.png" group-title="Müzik",Number One Türk 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/power.png" group-title="Müzik",Power 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/powerturk.png" group-title="Müzik",Power Türk 
+YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/dreamturk.png" group-title="Müzik",Dream Türk 
+YAYIN_LINKI_BURAYA
