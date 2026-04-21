@@ -1,5 +1,5 @@
 Playlist Adı: Ghost IPTV
-Playlist URL: https://streams.uzunmuhalefet.com/lists/tr.m3u
+Playlist URL: https://raw.githubusercontent.com/ghosttvla/GhostTV-Links/refs/heads/main/ghostiptv.m3u
 
 Playlist Adı: Uzun Muhalefet
 Playlist URL: https://streams.uzunmuhalefet.com/lists/tr.m3u
