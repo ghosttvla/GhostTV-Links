@@ -1,21 +1,5 @@
 #EXTM3U
 # --- ULUSAL ---
-#EXTINF:-1 tvg-logo="https://resmim.net/cdn/2026/04/22/C8uxSq.png" group-title="Ulusal",TRT 14K
-https://cors-anywhere.yidianzhishi.cn/http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49172
-#EXTINF:-1 tvg-logo="https://resmim.net/cdn/2026/04/22/C8uxSq.png" group-title="Ulusal",TRT 12K
-https://cors-anywhere.yidianzhishi.cn/http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49172
-#EXTINF:-1 tvg-logo="https://resmim.net/cdn/2026/04/22/C8uxSq.png" group-title="Ulusal",TRT 10K
-https://cors-anywhere.yidianzhishi.cn/http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49172
-#EXTINF:-1 tvg-logo="https://resmim.net/cdn/2026/04/22/C8uxSq.png" group-title="Ulusal",TRT 8K
-https://cors-anywhere.yidianzhishi.cn/http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49172
-#EXTINF:-1 tvg-logo="https://resmim.net/cdn/2026/04/22/C8uxSq.png" group-title="Ulusal",TRT 14K
-https://cors-anywhere.yidianzhishi.cn/http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49172
-#EXTINF:-1 tvg-logo="https://resmim.net/cdn/2026/04/22/C8uxSq.png" group-title="Ulusal",TRT 12K
-https://cors-anywhere.yidianzhishi.cn/http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49172
-#EXTINF:-1 tvg-logo="https://resmim.net/cdn/2026/04/22/C8uxSq.png" group-title="Ulusal",TRT 10K
-https://cors-anywhere.yidianzhishi.cn/http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49172
-#EXTINF:-1 tvg-logo="https://resmim.net/cdn/2026/04/22/C8uxSq.png" group-title="Ulusal",TRT 8K
-https://cors-anywhere.yidianzhishi.cn/http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49172
 #EXTINF:-1 tvg-logo="https://resmim.net/cdn/2026/04/22/C8uxSq.png" group-title="Ulusal",TRT 4K
 https://cors-anywhere.yidianzhishi.cn/http://apx-me.com:8880/live:persian_share/Hs6guU9ziF/49172
 #EXTINF:-1 tvg-logo="https://resmim.net/cdn/2026/04/22/C8u5Rh.png" group-title="Ulusal",TRT 1
