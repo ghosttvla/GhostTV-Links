@@ -103,41 +103,41 @@ YAYIN_LINKI_BURAYA
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="Spor",beIN 4K
 YAYIN_LINKI_BURAYA
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="Spor",beIN 1 
-YAYIN_LINKI_BURAYA
+https://api.hitnova.net/s/b1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein2.png" group-title="Spor",beIN 2 
-YAYIN_LINKI_BURAYA
+https://api.hitnova.net/s/b2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein3.png" group-title="Spor",beIN 3 
-YAYIN_LINKI_BURAYA
+https://api.hitnova.net/s/b3/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein4.png" group-title="Spor",beIN 4 
-YAYIN_LINKI_BURAYA
+https://api.hitnova.net/s/b4/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein5.png" group-title="Spor",beIN 5 
-YAYIN_LINKI_BURAYA
+https://api.hitnova.net/s/b5/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinmax1.png" group-title="Spor",beIN Max 1 
-YAYIN_LINKI_BURAYA
+https://api.hitnova.net/s/bm1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinmax2.png" group-title="Spor",beIN Max 2 
-YAYIN_LINKI_BURAYA
+https://api.hitnova.net/s/bm2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinhaber.png" group-title="Spor",beIN Haber 
 YAYIN_LINKI_BURAYA
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/tivuspor1.png" group-title="Spor",Tivibu Spor 1 
-YAYIN_LINKI_BURAYA
+https://api.hitnova.net/s/t1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/tivuspor2.png" group-title="Spor",Tivibu Spor 2 
-YAYIN_LINKI_BURAYA
+https://api.hitnova.net/s/t2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/tivuspor3.png" group-title="Spor",Tivibu Spor 3 
-YAYIN_LINKI_BURAYA
+https://api.hitnova.net/s/t3/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/tivuspor4.png" group-title="Spor",Tivibu Spor 4 
-YAYIN_LINKI_BURAYA
+https://api.hitnova.net/s/t4/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport.png" group-title="Spor",S Sport 
-YAYIN_LINKI_BURAYA
+https://api.hitnova.net/s/ss/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport2.png" group-title="Spor",S Sport 2 
-YAYIN_LINKI_BURAYA
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/eurospor1.png" group-title="Spor",Euro Sport 1 
-YAYIN_LINKI_BURAYA
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/eurospor2.png" group-title="Spor",Euro Sport 2 
-YAYIN_LINKI_BURAYA
+https://api.hitnova.net/s/ss2/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor.png" group-title="Spor",Smart Spor 1 
+https://api.hitnova.net/s/smarts/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor.png" group-title="Spor",Smart Spor 2 
+https://api.hitnova.net/s/sms2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/aspor.png" group-title="Spor",A Spor 
-YAYIN_LINKI_BURAYA
+https://api.hitnova.net/s/as/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/trtsporyildiz.png" group-title="Spor",TRT Spor Yıldız 
-YAYIN_LINKI_BURAYA
+https://api.hitnova.net/s/trtspor/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/trtspor.png" group-title="Spor",TRT Spor 
 YAYIN_LINKI_BURAYA
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/sports.png" group-title="Spor",Sportstv 
