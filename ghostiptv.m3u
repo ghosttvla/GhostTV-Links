@@ -93,9 +93,9 @@ YAYIN_LINKI_BURAYA
 
 # --- SPOR ---
 #EXTINF:-1 tvg-logo="https://ornek-logo.com/macsaati.png" group-title="Spor",Maç Saati Canlı
-YAYIN_LINKI_BURAYA
+http://tv.atomspor.workers.dev/?ID=bein-sports-1
 #EXTINF:-1 tvg-logo="https://ornek-logo.com/beinmacsaati4k.png" group-title="Spor",beIN Maç Saati 4K
-YAYIN_LINKI_BURAYA
+https://one.c37c5ccda41b4ac6.click/live/selcukbeinsports1/playlist.m3u8?_HLS_skip=YES
 #EXTINF:-1 tvg-logo="https://ornek-logo.com/beinrawmacsaati.png" group-title="Spor",beIN Raw Maç Saati 
 YAYIN_LINKI_BURAYA
 #EXTINF:-1 tvg-logo="https://ornek-logo.com/bein8k.png" group-title="Spor",beIN 8K
@@ -139,32 +139,31 @@ https://api.hitnova.net/s/as/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/trtsporyildiz.png" group-title="Spor",TRT Spor Yıldız 
 https://api.hitnova.net/s/trtspor/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/trtspor.png" group-title="Spor",TRT Spor 
-YAYIN_LINKI_BURAYA
+https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/sports.png" group-title="Spor",Sportstv 
-YAYIN_LINKI_BURAYA
+http://live.sportstv.com.tr/hls/low/sportstv_fhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/fbtv.png" group-title="Spor",Fenerbahçe Tv 
-YAYIN_LINKI_BURAYA
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/gstv.png" group-title="Spor",Galatasaray Tv 
-YAYIN_LINKI_BURAYA
+https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tvg-spor.png" group-title="Spor",TJK Tv 
-YAYIN_LINKI_BURAYA
+https://tjktv-live.tjk.org/tjktv.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tvg-spor.png" group-title="Spor",TJK Tv 2
+https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
 
 # --- BELGESEL ---
-#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/0de9fa25-120c-4b52-b460-e078531f6988.png" group-title="Belgesel",TLC 
-YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/0de9fa25-120c-4b52-b460-e078531f6988.png" group-title="Belgesel",TRT Belgesel
+http://tv-trtbelgesel.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/6a63a310-1f7d-4d5c-b377-1e497f5b3610.png" group-title="Belgesel",Dmax 
-YAYIN_LINKI_BURAYA
+http://dygvideo.dygdigital.com/live/hls/dmaxdai?m3u8
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/0de9fa25-120c-4b52-b460-e078531f6988.png" group-title="Belgesel",Nat Geo
+https://saran-live.ercdn.net/natgeohd/index.m3u8
+#EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/0de9fa25-120c-4b52-b460-e078531f6988.png" group-title="Belgesel",Nat Geo Wild
+https://saran-live.ercdn.net/natgeowild/index.m3u8
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/1da9e4ec-4e08-4bc9-bf29-5060d63bca07.png" group-title="Belgesel",Tarih Tv 
-YAYIN_LINKI_BURAYA
-#EXTINF:-1 tvg-logo="https://ornek-logo.com/sciencevie.png" group-title="Belgesel",Science & Vie TV 
-YAYIN_LINKI_BURAYA
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/belgesel/docubox.png" group-title="Belgesel",Docu Screen 
-YAYIN_LINKI_BURAYA
-#EXTINF:-1 tvg-logo="https://ornek-logo.com/fastfunbox.png" group-title="Belgesel",Fast & Fun Box 
-YAYIN_LINKI_BURAYA
+http://65.108.239.207/tarihtv/index.m3u8
+
 
 # --- MÜZİK ---
 #EXTINF:-1 tvg-logo="https://ornek-logo.com/trtmuzik.png" group-title="Müzik",TRT Müzik 
-YAYIN_LINKI_BURAYA
+https://tv-trtmuzik.medya.trt.com.tr/master.m3u8
 #EXTINF:-1 tvg-logo="https://ornek-logo.com/kral.png" group-title="Müzik",Kral 
-YAYIN_LINKI_BURAYA
+http://dygvideo.dygdigital.com/live/hls/kralpop?m3u8
