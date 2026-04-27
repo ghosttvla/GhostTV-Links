@@ -5,7 +5,7 @@ Playlist Adı: Uzun Muhalefet
 Playlist URL: https://streams.uzunmuhalefet.com/lists/tr.m3u
 
 Playlist Adı: Boncuk IPTV
-Playlist URL: https://raw.githubusercontent.com/ghosttvla/GhostTV-Links/refs/heads/main/boncuktv2.m3u
+Playlist URL: https://raw.githubusercontent.com/braveheart1983/boncuktv/refs/heads/main/boncuktv.m3u
 
 Playlist Adı: Patron IPTV
 Playlist URL: https://raw.githubusercontent.com/ghosttvla/GhostTV-Links/refs/heads/main/patronyt1.m3u
