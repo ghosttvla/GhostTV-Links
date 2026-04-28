@@ -103,7 +103,7 @@ YAYIN_LINKI_BURAYA
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="Spor",beIN 4K
 YAYIN_LINKI_BURAYA
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="Spor",beIN 1 
-https://api.hitnova.net/s/b1/mono.m3u8
+https://zeustvsports.site/api/stream_proxy.php?t=eTd5U0J1RVpGZzhCWVpBQ05YY2YwZlJlcHBuUzJnT25PQzZNcG5PTjNxVnhnWmRsY2xjVW04MS9oa0VRQVFObXR6ekNpaFlGRytmd01wbmFzV05pQmc9PQ
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein2.png" group-title="Spor",beIN 2 
 https://api.hitnova.net/s/b2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein3.png" group-title="Spor",beIN 3 
