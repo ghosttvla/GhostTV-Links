@@ -93,31 +93,29 @@ YAYIN_LINKI_BURAYA
 
 # --- SPOR ---
 #EXTINF:-1 tvg-logo="https://ornek-logo.com/macsaati.png" group-title="Spor",Maç Saati Canlı
-http://tv.atomspor.workers.dev/?ID=bein-sports-1
-#EXTINF:-1 tvg-logo="https://ornek-logo.com/beinmacsaati4k.png" group-title="Spor",beIN Maç Saati 4K
+https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivebs1.m3u8
+#EXTINF:-1 tvg-logo="https://ornek-logo.com/beinmacsaati4k.png" group-title="Spor",beIN Maç Saati
 https://one.c37c5ccda41b4ac6.click/live/selcukbeinsports1/playlist.m3u8?_HLS_skip=YES
-#EXTINF:-1 tvg-logo="https://ornek-logo.com/beinrawmacsaati.png" group-title="Spor",beIN Raw Maç Saati 
-YAYIN_LINKI_BURAYA
-#EXTINF:-1 tvg-logo="https://ornek-logo.com/bein8k.png" group-title="Spor",beIN 8K
-YAYIN_LINKI_BURAYA
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="Spor",beIN 4K
 https://young-surf-88a9.songulcavdar8274.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="Spor",beIN 1 
 https://zeustvsports.site/api/stream_proxy.php?t=eTd5U0J1RVpGZzhCWVpBQ05YY2YwZlJlcHBuUzJnT25PQzZNcG5PTjNxVnhnWmRsY2xjVW04MS9oa0VRQVFObXR6ekNpaFlGRytmd01wbmFzV05pQmc9PQ
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein2.png" group-title="Spor",beIN 2 
-https://young-surf-88a9.songulcavdar8274.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-2.m3u8
+https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivebs2.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein3.png" group-title="Spor",beIN 3 
-https://hlsssssss.amgtmeme.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-3.m3u8
+https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivebs3.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein4.png" group-title="Spor",beIN 4 
-https://hlsssssss.amgtmeme.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-4.m3u8
+https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivebs4.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein5.png" group-title="Spor",beIN 5 
-https://api.hitnova.net/s/b5/mono.m3u8
+https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivebs5.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinmax1.png" group-title="Spor",beIN Max 1 
 https://api.hitnova.net/s/bm1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinmax2.png" group-title="Spor",beIN Max 2 
 https://api.hitnova.net/s/bm2/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinhaber.png" group-title="Spor",beIN Haber 
 YAYIN_LINKI_BURAYA
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/tivuspor1.png" group-title="Spor",Tivibu Spor
+https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivets.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/tivuspor1.png" group-title="Spor",Tivibu Spor 1 
 https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivets1.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/tivuspor2.png" group-title="Spor",Tivibu Spor 2 
