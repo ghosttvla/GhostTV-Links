@@ -92,28 +92,28 @@ YAYIN_LINKI_BURAYA
 YAYIN_LINKI_BURAYA
 
 # --- SPOR ---
-#EXTINF:-1 tvg-logo="https://ornek-logo.com/macsaati.png" group-title="Spor",Maç Saati Canlı
-https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivebs1.m3u8
-#EXTINF:-1 tvg-logo="https://ornek-logo.com/beinmacsaati4k.png" group-title="Spor",beIN Maç Saati
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="Spor",Maç Saati Canlı
+http://62.238.16.27:5000/hls/bspor1/index.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="Spor",beIN Maç Saati
 https://one.c37c5ccda41b4ac6.click/live/selcukbeinsports1/playlist.m3u8?_HLS_skip=YES
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="Spor",beIN 4K
-https://young-surf-88a9.songulcavdar8274.workers.dev/https://corestream.ronaldovurdu.help//hls/bein-sports-11.m3u8
+http://62.238.16.27:5000/hls/bspor1ydk2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="Spor",beIN 1 
-https://zeustvsports.site/api/stream_proxy.php?t=eTd5U0J1RVpGZzhCWVpBQ05YY2YwZlJlcHBuUzJnT25PQzZNcG5PTjNxVnhnWmRsY2xjVW04MS9oa0VRQVFObXR6ekNpaFlGRytmd01wbmFzV05pQmc9PQ
+http://62.238.16.27:5000/hls/bspor1ydk3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein2.png" group-title="Spor",beIN 2 
-https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivebs2.m3u8
+http://62.238.16.27:5000/hls/bspor2/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein3.png" group-title="Spor",beIN 3 
-https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivebs3.m3u8
+http://62.238.16.27:5000/hls/bspor3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein4.png" group-title="Spor",beIN 4 
-https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivebs4.m3u8
+http://62.238.16.27:5000/hls/bspor4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein5.png" group-title="Spor",beIN 5 
-https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamlivebs5.m3u8
+http://62.238.16.27:5000/hls/bspor5/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinmax1.png" group-title="Spor",beIN Max 1 
-https://api.hitnova.net/s/bm1/mono.m3u8
+http://62.238.16.27:5000/hls/bspor1max/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinmax2.png" group-title="Spor",beIN Max 2 
-https://api.hitnova.net/s/bm2/mono.m3u8
+http://62.238.16.27:5000/hls/bspor2max/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinhaber.png" group-title="Spor",beIN Haber 
-YAYIN_LINKI_BURAYA
+http://62.238.16.27:5000/hls/bienhaber/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/tivuspor1.png" group-title="Spor",Tivibu Spor
 http://62.238.16.27:5000/hls/tivibu/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/tivuspor1.png" group-title="Spor",Tivibu Spor 1 
@@ -132,7 +132,7 @@ http://62.238.16.27:5000/hls/ssport2/index.m3u8
 http://62.238.16.27:5000/hls/smarts1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor.png" group-title="Spor",Smart Spor 2 
 http://62.238.16.27:5000/hls/smarts2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/aspor.png" group-title="Spor",A Spor 
+#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/aSpor/i/logo.png" group-title="Spor",A Spor 
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/trtsporyildiz.png" group-title="Spor",TRT Spor Yıldız 
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
@@ -142,13 +142,17 @@ https://tv-trtspor1.medya.trt.com.tr/master.m3u8
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/trtspor.png" group-title="Spor",Ekol Sports
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport2.png" group-title="Spor",İdman Tv
+https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamliveidm.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/fbtv.png" group-title="Spor",Fenerbahçe Tv 
 https://fbtv.fenerbahce.org/fenerbahcetv.stream/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tvg-spor.png" group-title="Spor",Ziraat TK TV
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/fbtv.png" group-title="Spor",NBA TV
+https://aleeeex.denek1544.workers.dev/izle/nbatv-127.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/tr/archive/6/61/20251223094529%21Ziraat_T%C3%BCrkiye_Kupas%C4%B1_logosu.png" group-title="Spor",Ziraat TK TV
 https://playlist.fasttvcdn.com/pl/rfrk9821hdy9dayo8wfyha/ztktv/playlist.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tvg-spor.png" group-title="Spor",TJK Tv 
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/14/1/turkiye-jokey-kulubu-logo-png_seeklogo-143252.png" group-title="Spor",TJK Tv 
 https://tjktv-live.tjk.org/tjktv.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/tvg-spor.png" group-title="Spor",TJK Tv 2
+#EXTINF:-1 tvg-logo="https://images.seeklogo.com/logo-png/14/1/turkiye-jokey-kulubu-logo-png_seeklogo-143252.png" group-title="Spor",TJK Tv 2
 https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
 
 # --- BELGESEL ---
@@ -171,7 +175,7 @@ http://62.238.16.27:5000/hls/viahistory/index.m3u8
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/1da9e4ec-4e08-4bc9-bf29-5060d63bca07.png" group-title="Belgesel",Viasat Nature
 http://62.238.16.27:5000/hls/vianature/index.m3u8
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/1da9e4ec-4e08-4bc9-bf29-5060d63bca07.png" group-title="Belgesel",Love Nature
-http://62.238.16.27:5000/hls/tarihtv/index.m3u8
+http://62.238.16.27:5000/hls/lovenature/index.m3u8
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/1da9e4ec-4e08-4bc9-bf29-5060d63bca07.png" group-title="Belgesel",Animal Planet
 http://62.238.16.27:5000/hls/tarihtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/1da9e4ec-4e08-4bc9-bf29-5060d63bca07.png" group-title="Belgesel",beIN IZ
@@ -179,7 +183,7 @@ http://62.238.16.27:5000/hls/tarihtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/1da9e4ec-4e08-4bc9-bf29-5060d63bca07.png" group-title="Belgesel",beIN Gurme
 http://62.238.16.27:5000/hls/tarihtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/1da9e4ec-4e08-4bc9-bf29-5060d63bca07.png" group-title="Belgesel",TLC
-http://62.238.16.27:5000/hls/tarihtv/index.m3u8
+https://aleeeex.denek1544.workers.dev/izle/tlc-83.m3u8
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/1da9e4ec-4e08-4bc9-bf29-5060d63bca07.png" group-title="Belgesel",Habitat TV
 http://62.238.16.27:5000/hls/tarihtv/index.m3u8
 #EXTINF:-1 tvg-logo="https://feo.kablowebtv.com/resize/168A635D265A4328C2883FB4CD8FF/500/500/channels/logos/1da9e4ec-4e08-4bc9-bf29-5060d63bca07.png" group-title="Belgesel",Tarih Tv
