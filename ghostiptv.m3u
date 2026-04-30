@@ -156,57 +156,57 @@ https://tjktv-live.tjk.org/tjktv.m3u8
 https://tjktv-live.tjk.org/tjktv2/tjktv2.m3u8
 
 # --- SPOR YEDEK ---
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="Spor",Maç Saati Canlı
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="Spor Yedek",Maç Saati Canlı
 http://62.238.16.27:5000/hls/bspor1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="Spor",beIN Maç Saati
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="Spor Yedek",beIN Maç Saati
 https://one.c37c5ccda41b4ac6.click/live/selcukbeinsports1/playlist.m3u8?_HLS_skip=YES
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="Spor",beIN 4K
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek1/bein4Kmac.png" group-title="Spor Yedek",beIN 4K
 http://62.238.16.27:5000/hls/bspor1ydk2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="Spor",beIN 1 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein1.png" group-title="Spor Yedek",beIN 1 
 http://62.238.16.27:5000/hls/bspor1ydk3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein2.png" group-title="Spor",beIN 2 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein2.png" group-title="Spor Yedek",beIN 2 
 http://62.238.16.27:5000/hls/bspor2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein3.png" group-title="Spor",beIN 3 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein3.png" group-title="Spor Yedek",beIN 3 
 http://62.238.16.27:5000/hls/bspor3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein4.png" group-title="Spor",beIN 4 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein4.png" group-title="Spor Yedek",beIN 4 
 http://62.238.16.27:5000/hls/bspor4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein5.png" group-title="Spor",beIN 5 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/bein5.png" group-title="Spor Yedek",beIN 5 
 http://62.238.16.27:5000/hls/bspor5/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinmax1.png" group-title="Spor",beIN Max 1 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinmax1.png" group-title="Spor Yedek",beIN Max 1 
 http://62.238.16.27:5000/hls/bspor1max/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinmax2.png" group-title="Spor",beIN Max 2 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinmax2.png" group-title="Spor Yedek",beIN Max 2 
 http://62.238.16.27:5000/hls/bspor2max/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinhaber.png" group-title="Spor",beIN Haber 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/beinhaber.png" group-title="Spor Yedek",beIN Haber 
 http://62.238.16.27:5000/hls/bienhaber/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/tivuspor1.png" group-title="Spor",Tivibu Spor
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/tivuspor1.png" group-title="Spor Yedek",Tivibu Spor
 http://62.238.16.27:5000/hls/tivibu/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/tivuspor1.png" group-title="Spor",Tivibu Spor 1 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/tivuspor1.png" group-title="Spor Yedek",Tivibu Spor 1 
 http://62.238.16.27:5000/hls/tivibus1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/tivuspor2.png" group-title="Spor",Tivibu Spor 2 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/tivuspor2.png" group-title="Spor Yedek",Tivibu Spor 2 
 http://62.238.16.27:5000/hls/tivibus2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/tivuspor3.png" group-title="Spor",Tivibu Spor 3 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/tivuspor3.png" group-title="Spor Yedek",Tivibu Spor 3 
 http://62.238.16.27:5000/hls/tivibus3/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/tivuspor4.png" group-title="Spor",Tivibu Spor 4 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/tivuspor4.png" group-title="Spor Yedek",Tivibu Spor 4 
 http://62.238.16.27:5000/hls/tivibus4/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport.png" group-title="Spor",S Sport 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport.png" group-title="Spor Yedek",S Sport 
 http://62.238.16.27:5000/hls/ssport/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport2.png" group-title="Spor",S Sport 2 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport2.png" group-title="Spor Yedek",S Sport 2 
 http://62.238.16.27:5000/hls/ssport2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor.png" group-title="Spor",Smart Spor 1 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor.png" group-title="Spor Yedek",Smart Spor 1 
 http://62.238.16.27:5000/hls/smarts1/index.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor.png" group-title="Spor",Smart Spor 2 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor.png" group-title="Spor Yedek",Smart Spor 2 
 http://62.238.16.27:5000/hls/smarts2/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/aSpor/i/logo.png" group-title="Spor",A Spor 
+#EXTINF:-1 tvg-logo="https://i.tmgrup.com.tr/aSpor/i/logo.png" group-title="Spor Yedek",A Spor 
 https://rnttwmjcin.turknet.ercdn.net/lcpmvefbyo/aspor/aspor.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/trtsporyildiz.png" group-title="Spor",TRT Spor Yıldız 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/trtsporyildiz.png" group-title="Spor Yedek",TRT Spor Yıldız 
 https://tv-trtspor2.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/trtspor.png" group-title="Spor",TRT Spor 
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/trtspor.png" group-title="Spor Yedek",TRT Spor 
 https://tv-trtspor1.medya.trt.com.tr/master.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/trtspor.png" group-title="Spor",HT Spor
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/trtspor.png" group-title="Spor Yedek",HT Spor
 https://ciner.daioncdn.net/ht-spor/ht-spor.m3u8?app=web
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/trtspor.png" group-title="Spor",Ekol Sports
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/trtspor.png" group-title="Spor Yedek",Ekol Sports
 https://ekoltv-live.ercdn.net/ekolsport/ekolsport.m3u8
-#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport2.png" group-title="Spor",İdman Tv
+#EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport2.png" group-title="Spor Yedek",İdman Tv
 https://raw.githubusercontent.com/Zankyu1w0/xorak/refs/heads/main/Emu/androstreamliveidm.m3u8
 
 # --- BELGESEL ---
