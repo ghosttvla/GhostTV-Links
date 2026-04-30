@@ -125,9 +125,9 @@ http://62.238.16.27:5000/hls/tivibus3/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/ek2/tivuspor4.png" group-title="Spor",Tivibu Spor 4 
 http://62.238.16.27:5000/hls/tivibus4/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport.png" group-title="Spor",S Sport 
-http://62.238.16.27:5000/hls/ssport/index.m3u8
+http://62.238.16.27:5000/hls/ssportfhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/ssport2.png" group-title="Spor",S Sport 2 
-http://62.238.16.27:5000/hls/ssport2/index.m3u8
+http://62.238.16.27:5000/hls/ssport2fhd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor.png" group-title="Spor",Smart Spor 1 
 http://62.238.16.27:5000/hls/smarts1/index.m3u8
 #EXTINF:-1 tvg-logo="https://i0.wp.com/resim.yayins.com/spor/smartspor.png" group-title="Spor",Smart Spor 2 
